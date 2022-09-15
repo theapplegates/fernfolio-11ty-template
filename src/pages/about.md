@@ -2,22 +2,18 @@
 title: About Me
 subtitle: ""
 metaDescription: This page is all about me
-date: 2017-01-01T00:00:00.000Z
+date: 2022-09-15T02:43:40Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+Here is some trivia about me. When I was 10 we lived in New Jersey. My mother was in the process of becoming a contestant on the $20,000 Pyramid.She was taken aside and asked if she wanted to appear on the $20,000 Junior Pyramid. From October 1 to November 9, 1979, the series briefly became Junior Partner Pyramid, which scrapped the usual celebrity-contestant pairings in favor of children playing the game with a parent or other adult relative.
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
+If you’re curious what TV was like in 1979 then be all means watch the [episode](https://vimeo.com/26595314) the password is pa$$word. Oh and I lost the game.
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+![show title](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Pyramid-title.jpg)
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
+![Me and Mom](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Me-Mom.jpg)
 
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
-
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
-
-![Fern in Hand](/assets/img/fern-in-hand.jpeg "Fern in Hand")
+![Contract](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/contract.jpg)
